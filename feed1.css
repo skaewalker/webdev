@@ -1,0 +1,16 @@
+body{
+font.family:Arial,verdana,Arial Black,Geneva;
+font-weight:bold;
+border: 2px solid black;
+}
+h1{
+border-bottom:1px solid blue;
+font-size:25px
+}
+
+p.p1{
+color:red;
+font-weight:light;
+text-decoration:underline;
+font-style:italic;
+}

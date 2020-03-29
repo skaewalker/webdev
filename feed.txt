@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<title>Feedback Forms Creation</title>
+
+<h1>FEEDBACK FORM</h1>
+<br>
+<br>
+<h2>Please Enter your details into the following fields as per instructions</h2>
+<br>
+<br>
+</head>
+<body>
+
+<form action="" method="">
+<label for="firstname">First Name:</label>
+<input type="text" id="firstname" name="">
+<br>
+<br>
+<label for="sec">Last Name:</label>
+<input type="text" id="sec" name="">
+<br>
+<br>
+ARE YOU ABOVE 18 YEARS OF AGE ?
+<input type="radio" name="yesorno" name=""><br>
+Yes:
+<input type="radio" name="yesorno" name=""><br>
+<br> WHAT ARE THE SPORTS YOU WANT TO PLAY?<br>
+<input type="checkbox" name="">FOOTBALL<br>
+<input type="checkbox" name="">CRICKET<br>
+<input type="checkbox" name="">KABADDI<br>
+<input type="checkbox" name="">ANY OTHER(Please mention in the box below)<br>
+<label for="thr">Other Sports:</label>
+<input type="text" id="thr" size="20" name="">
+<br>
+<br>
+THANK YOU FOR FILLING THE FORM!<br><br>
+<input type="submit" value="Press to Submit">
+</form>
+</body>
+</html>
