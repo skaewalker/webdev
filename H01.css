@@ -1,0 +1,28 @@
+body{
+  font-family: cursive;
+font-size: 15 px;
+line-height: 1.5 em;
+background-color: rgb(211, 211, 203 );
+padding: 30 px;
+border-color: black;
+border-width: 5 px;
+border-style: solid;
+margin:15 px;
+margin-top: 10 px;
+}
+
+p.first{
+color: red;
+text-decoration:underline;
+font-weight:bold;
+}
+legend{
+  font-size: 100 px;
+}
+p{
+  color: red;
+text-decoration:underline;
+}
+h1{
+border-bottom:1 px solid red;
+}
